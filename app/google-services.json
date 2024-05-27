@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94211912324",
+    "project_id": "campuschat-cc41b",
+    "storage_bucket": "campuschat-cc41b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94211912324:android:d1c90bfa13ad32e12748d1",
+        "android_client_info": {
+          "package_name": "com.example.campuschat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZNfv3at_A4ll6cwX9s-blwWEVkvUvyvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
